@@ -1,0 +1,17 @@
+{
+  "name": "coolPlugin",
+  "version": "0.0.1",
+  "description": "test",
+  "cordova": {
+    "id": "coolPlugin",
+    "platforms": [
+      "android"
+    ]
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-android"
+  ],
+  "author": "",
+  "license": "ISC"
+}
